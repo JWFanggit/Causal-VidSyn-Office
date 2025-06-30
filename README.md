@@ -38,3 +38,6 @@ a.You can see the ```eval_metrics.py``` to calculate CLIP Score, FVD, and Tempor
 
 b. Additionally, you can choose the master's branch in this project to calculate Affordance using GroundDINO. 
 The weights of GroundDINO you can download [here](https://pan.baidu.com/s/1AAN7-VDaJ5UsWczEEwwHMQ?pwd=39h2) 
+
+## Generated Video Samples (DADA BDDA)
+!Coming soon
