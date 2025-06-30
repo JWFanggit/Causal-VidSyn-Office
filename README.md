@@ -31,7 +31,7 @@ b.Use the checkpoint saved in stage 1.
 ## Inference
 a.You can download our trained model [here](https://pan.baidu.com/s/1lSYrJGTvRAqrfDIkGUlGGQ?pwd=d9cx)
 
-b.Use the pipeline we provide on the training stage.
+b.Use the V2VPipeline we provide during the training stage.
 
 ## Evaluation
 a.You can see the ```eval_metrics.py``` to calculate CLIP Score, FVD, and Temporal Consistency.
