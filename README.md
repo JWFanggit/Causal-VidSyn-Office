@@ -11,8 +11,6 @@ Make a data structure
 
 b.The Drive-Gaze dataset has been officially released on the MM-AU dataset for non-commercial use only. To access the dataset, please register on the [homepage](http://www.lotvsmmau.net) or contact us at lotvsmmau@gmail.com. Once your request is reviewed and approved, we will promptly send you the download link for Drive-Gaze.
 
-Download [Drive-Gaze and train.txt](https://pan.baidu.com/s/1FWgrNmK2hfAv9VH3sEWZqA?pwd=u9es).
-
 c.Download the Pre-trained video diffusion models [here](https://pan.baidu.com/s/1eORCcoWz7hWRIGJd9Wy3nA?pwd=4g4i)
 
 d.Download the [QA dataset](https://pan.baidu.com/s/1j0PpptGEO0F7lh_PevkMfw?pwd=i2xk ) in MM-AU Training
